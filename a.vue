@@ -1,4 +1,8 @@
-<template></template>
+<template>
+  <div>
+    <div>123</div>
+  </div>
+</template>
 
 <script>
 export default {
@@ -8,6 +12,17 @@ export default {
   },
   mounted() {
     console.log(a = b = c = 1)
+    console.log(1)
+    console.log(1)
+    console.log(1)
+    console.log(1)
+    console.log(1)
+    console.log(1)
+    console.log(1)
+    console.log(1)
+    console.log(1)
+    console.log(1)
+    console.log(1)
     console.log(1)
   },
   methods: {},
