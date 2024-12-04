@@ -8,6 +8,7 @@ export default {
   },
   mounted() {
     console.log(a = b = c = 1)
+    console.log(1)
   },
   methods: {},
   computed: {},
