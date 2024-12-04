@@ -24,6 +24,7 @@ export default {
     console.log(1)
     console.log(1)
     console.log(1)
+    console.log(1)
   },
   methods: {},
   computed: {},
